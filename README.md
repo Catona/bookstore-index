@@ -1,2 +1,2 @@
 # bookstore-index
-书店前台界面
+网上书店前台界面
